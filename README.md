@@ -1,99 +1,50 @@
-Simple Python Project
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-This repository contains a beginner-friendly Python project designed to help new learners understand basic programming concepts such as variables, user input, data types, printing output, and simple logic.
-It is part of a larger learning series of 100 Simple Python Projects aimed at building a strong foundation in Python.
+###
 
-🎯 Purpose
+<div align="center">
+</div>
 
-The goal of this project is to:
+###
 
-Introduce fundamental Python syntax
+<br clear="both">
 
-Practice using variables and the input() function
+<h1 align="center">hey there 👋 I am Araujo</h1>
 
-Understand how programs collect and process data
+###
 
-Build confidence through small, easy-to-follow exercises
+<h3 align="left">👩‍💻  About Me</h3>
 
-Each project in this series focuses on one or more core Python concepts.
+###
 
-🚀 What You’ll Learn
+<p align="left">Hi! 👋 I’m a passionate learner from East Timor<br>I love exploring technology and coding 💻🔥<br>Right now, I’m learning every type of code that I possibly can — from web development 🌐, software engineering 🛠️, to AI 🤖.<br>I believe learning never stops 🚀 and I’m building my future one line of code at a time! 💡✨</p>
 
-Depending on the specific project, you may practice:
+###
 
-Variables and data storage
+<h3 align="left">🔥   My Stats :</h3>
 
-User input and output
+###
 
-Basic string manipulation
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=coderaraujo04-sys&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-Conditional statements (if, elif, else)
+###
 
-Loops (for, while)
+<h3 align="left">🛠 Language and tools</h3>
 
-Simple functions
+###
 
-Basic calculations and logic
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
-📁 Project Structure
-
-A typical project includes:
-
-SimplePythonProject/
-│
-├── project.py      # Main Python script
-└── README.md       # Documentation
-
-▶️ How to Run the Project
-
-Make sure Python 3.x is installed on your system.
-
-Run the script using:
-
-python project.py
-
-
-Or, on some systems:
-
-python3 project.py
-
-🧠 Example (Generic)
-
-A typical simple project might look like:
-
-name = input("Enter something: ")
-print("You entered:", name)
-
-
-Or:
-
-number = int(input("Enter a number: "))
-print("Double the number is:", number * 2)
-
-🎓 Who This Is For
-
-This project is perfect for:
-
-Complete beginners
-
-Students learning Python for the first time
-
-Anyone practicing coding logic through small exercises
-
-People following a “100 Days / 100 Projects” learning roadmap
-
-📌 Requirements
-
-Python 3.x
-
-No external libraries required unless specified
-
-💡 Tips for Learning
-
-Keep projects simple
-
-Try modifying the code to see different results
-
-Practice consistently
-
-Build up complexity step-by-step
+###
